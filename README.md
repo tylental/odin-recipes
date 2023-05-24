@@ -1,5 +1,5 @@
 # odin-recipes
-The project is to learn and appyl basic HTML skills.
+The project is to learn and apply basic HTML skills.
 
 I aim to practice basic Git commits, status and commands alongside building a basic website with HTML.
 
